@@ -78,10 +78,3 @@ Esta acción permitiría optimizar recursos y concentrar la inversión en las tr
 - **Jupyter Notebook**
 
 ---
-
-## Ejecución del Proyecto
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/usuario/alura-store-latam.git
-   cd alura-store-latam
