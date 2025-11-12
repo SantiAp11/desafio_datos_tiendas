@@ -78,3 +78,15 @@ Esta acción permitiría optimizar recursos y concentrar la inversión en las tr
 - **Jupyter Notebook**
 
 ---
+## Autor
+
+**Santiago Aparicio Pérez**  
+*Analista de Datos, Desarrollador de Software y Científico de Datos (en Formación)*  
+
+Apasionado por transformar datos en decisiones estratégicas. Combina el análisis estadístico con el desarrollo de soluciones tecnológicas para impulsar la eficiencia operativa y la toma de decisiones basada en evidencia.  
+
+**Conecta conmigo:**  
+- [LinkedIn](https://www.linkedin.com/in/santiap/)  
+- [GitHub](https://github.com/SantiAp11)  
+- [Portafolio Web](https://santiap11.github.io/)
+
